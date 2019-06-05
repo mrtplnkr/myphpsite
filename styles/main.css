@@ -1,0 +1,44 @@
+
+a { cursor: pointer; }
+.help-block { font-size: 12px; }
+
+/* //nodes */
+.nodeExample1 {
+    width: auto;
+    min-width:100px;
+}
+p.node-name {
+    font-size:12px;
+    margin:0;
+}
+p.node-title {
+    font-size: 10px;
+    margin:0;
+}
+p.node-contact {
+    font-size: 8px;
+    margin:0;
+}
+
+/* //positioning */
+.float-right {
+    float:right;
+}
+.d-flex {
+    display:flex;
+}
+.f-1 {
+    flex:1;
+}
+.fd-column {
+    flex-direction:column;
+}
+.ta-center {
+    text-align: center;
+}
+.ta-right {
+    text-align: right;
+}
+.jc-center {
+    justify-content: center;
+}
